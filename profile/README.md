@@ -54,7 +54,7 @@ Simple php based directory viewer.
 
 ### Archived
 
-**[Discord-Fan-Made](https://github.com/Lovely-Experiences/Discord-Fan-Made)**
+**[Discord-Fan-Made](https://github.com/Lovely-Experiences/Discord-Fan-Made)** *(Unfinished)*
 <br>
 This is a fan made version of Discord, with way less features of course. 
 
