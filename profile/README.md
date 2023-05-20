@@ -28,7 +28,7 @@ These are public files which can be accessed via our website.
 <br>
 This is a temporary website for colorbynumber.online!
 
-**[website](https://github.com/Lovely-Experiences/website)** *(WIP)*
+**[website](https://github.com/Lovely-Experiences/website)**
 <br>
 Repository for lovelyjacob.com!
 
