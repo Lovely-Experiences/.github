@@ -1,5 +1,5 @@
 # Lovely Experiences
-Lovely Experiences is an organization/group which is owend and run by [@jacobhumston](https://github.com/jacobhumston).
+Lovely Experiences is an organization/group which is owned and run by [@jacobhumston](https://github.com/jacobhumston).
 
 ## Links
 **Github:** https://github.com/Lovely-Experiences
